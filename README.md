@@ -26,7 +26,7 @@ Link to site: https://boiling-scrubland-59449.herokuapp.com/
 
 ### Example
 ### Home Page
-![Alt Text](https://github.com/jmh129/gt-pwa/blob/master/public/images/budget-tracker.png?raw=true)
+![Alt Text](https://github.com/jmh129/gt-pwa/blob/master/images/budget-tracker.png?raw=true)
 
 ### Credits
 Credit to the Georgia Institute of Technology Coding Bootcamp for the instruction for the assignemnt. 
