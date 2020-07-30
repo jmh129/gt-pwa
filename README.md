@@ -1,7 +1,7 @@
 # gt-pwa
 
 ## Introduction
-This fitness tracker utilizes technologies such as, nodejs, express, mongodb and mongoose. 
+This application is a progressive web app that allows the user to track their expenses both on and offline. This application uses mongodb, indexeddb. 
 
 ## Table of Contents
 - [Introduction](#Introduction)
@@ -17,7 +17,7 @@ Clone this repo to your local machine using https://github.com/jmh129/gt-pwa
 Note: Make sure to run npm install as this application makes use of node packages. 
 
 ### Usage
-To use the application, the user can visit the site and select from the options available on the homepage.The user can either enter in a new workout, continue a previous one or view the stats dashboard. 
+To use the application, the user can visit the site and enter their expenses in the input boxes and submit. The totals will reflect based on the input. 
 
 Link to site: https://boiling-scrubland-59449.herokuapp.com/
 
